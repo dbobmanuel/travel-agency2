@@ -60,7 +60,7 @@ p {
 
 
 .label {
-  font-size: 0.8em;
+  font-size: 0.8rem;
   color: #666;
 }
 
@@ -85,7 +85,7 @@ button {
   border-radius: 20px;
   cursor: pointer;
   margin-left: 10px;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
   width: 55%;
 }
