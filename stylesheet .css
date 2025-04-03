@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Roboto Condensed";
   background: url(./images/suhyeon-choi-tTfDMaRq-FE-unsplash.jpg) center
     center/cover;
   color: #fff;
@@ -42,7 +42,7 @@ h1 span{
 p {
   font-size:1.5em;
   margin-bottom: 10px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Roboto Condensed";
 }
 
 .logo{
