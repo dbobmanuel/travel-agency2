@@ -116,7 +116,7 @@ button:hover {
 @media (max-width:768px) {
 
   .container{
-    width:80%;
+    width: 90%;
   }
   .logo img{
     width: 150px;
